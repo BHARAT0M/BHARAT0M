@@ -15,7 +15,7 @@
 
 - 💻 I am C++ Programmer
 - 🎓 I am currently pursuing MCA at NITK (National Institute Of Technology Karnataka, Surathkal)
-- 🎖  I am good in C++, OOPS , Data Structure, MySQL, Problem Solving.
+- 🎖  I am good in C++, OOPS , Data Structure, MySQL and Problem Solving.
 - 🌱 Learning `Python + Networking`.
 - 🤔 Need some help with [technical interview](https://techinterviewhandbook.org/).
 - 👯 I’m looking to collaborate on projects made with C++, Python.
