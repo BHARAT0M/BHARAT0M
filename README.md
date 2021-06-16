@@ -14,10 +14,9 @@
 ### About me
 
 - 💻 I am C++ Programmer
-- 🎖  I am currently pursuing MCA at NITK (National Institute Of Technology Karnataka, Surathkal)
--
-- 🌱 Learning `Fullstack Web Development`.
-- 🤔 Need some help with `technical interview`.
+- 🎓 I am currently pursuing MCA at NITK (National Institute Of Technology Karnataka, Surathkal)
+- 🎖  I am good in C++, OOPS , Data Structure, MySQL, Problem Solving.
+- 🌱 Learning `Python + Networking`.
+- 🤔 Need some help with [technical interview](https://techinterviewhandbook.org/).
+- 👯 I’m looking to collaborate on projects made with C++, Python.
 - 💬 Ask me about anything ☞ [here](https://instagram.com/b_badiya08/).
-- ⚡ Fun fact: I'm 9th time `blood donor`.
-- 💭 Let's get to know each other
