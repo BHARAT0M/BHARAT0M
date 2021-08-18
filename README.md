@@ -28,5 +28,5 @@
 <a href="https://www.interviewbit.com/profile/patidarbharat095_af5eaef47718"><img height="40" src="https://raw.githubusercontent.com/BHARAT0M/BHARAT0M/master/icons/interviewbit.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://leetcode.com/MAMA_MAFIA/"><img height="40" src="https://raw.githubusercontent.com/BHARAT0M/BHARAT0M/master/icons/leetCode.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://auth.geeksforgeeks.org/user/patidarmama774/profile"><img height="40" src="https://raw.githubusercontent.com/BHARAT0M/BHARAT0M/master/icons/gfg.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/patidarbharat095"><img height="40" src="https://raw.githubusercontent.com/BHARAT0M/BHARAT0M/master/icons/Hackerrank.jpg?raw=true"></a>&nbsp;&nbsp
+<a href="https://www.hackerrank.com/patidarbharat095"><img height="40" src="https://raw.githubusercontent.com/BHARAT0M/BHARAT0M/master/icons/Hackerank.jpg?raw=true"></a>&nbsp;&nbsp
 <a href="https://www.hackerearth.com/@B_badiya08"><img height="40" src="https://raw.githubusercontent.com/BHARAT0M/BHARAT0M/master/icons/Hackerearth.jpg?raw=true"></a>&nbsp;&nbsp
