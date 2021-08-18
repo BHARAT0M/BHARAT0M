@@ -30,3 +30,10 @@
 <a href="https://auth.geeksforgeeks.org/user/patidarmama774/profile"><img height="40" src="https://raw.githubusercontent.com/BHARAT0M/BHARAT0M/master/icons/gfg.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/patidarbharat095"><img height="40" src="https://raw.githubusercontent.com/BHARAT0M/BHARAT0M/master/icons/Hackerank.jpg?raw=true"></a>&nbsp;&nbsp
 <a href="https://www.hackerearth.com/@B_badiya08"><img height="40" src="https://raw.githubusercontent.com/BHARAT0M/BHARAT0M/master/icons/Hackerearth.jpg?raw=true"></a>&nbsp;&nbsp
+
+
+  
+### Learning Platforms 
+<p align='left'>
+<a href="https://www.coursera.org/user/4856bbd85219c30a9db4aaa9364349d9"><img height="40" src="https://raw.githubusercontent.com/BHARAT0M/BHARAT0M/master/icons/coursera.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://developer.cisco.com/user/profile"><img height="40" src="https://raw.githubusercontent.com/BHARAT0M/BHARAT0M/master/icons/ciscodev.png?raw=true"></a>&nbsp;&nbsp;
