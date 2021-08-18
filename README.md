@@ -18,5 +18,4 @@
 - 🎖  I am good in C++, OOPS , Data Structure, MySQL and Problem Solving.
 - 🌱 Learning `Python + Networking`.
 - 🤔 Need some help with [technical interview](https://techinterviewhandbook.org/).
-- 👯 I’m looking to collaborate on projects made with C++, Python.
 - 💬 Ask me about anything ☞ [here](https://instagram.com/b_badiya08/).
