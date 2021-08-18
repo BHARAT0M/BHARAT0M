@@ -19,3 +19,10 @@
 - 🌱 Learning `Python + Networking`.
 - 🤔 Need some help with [technical interview](https://techinterviewhandbook.org/).
 - 💬 Ask me about anything ☞ [here](https://instagram.com/b_badiya08/).
+
+
+
+### Coding Platforms 
+<p align='left'>
+<a href="https://app.codesignal.com/profile/bharat_p8/"><img height="40" src="https://raw.githubusercontent.com/BHARAT0M/BHARAT0M/master/icons/codeSignal.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.interviewbit.com/profile/patidarbharat095_af5eaef47718"><img height="40" src="https://raw.githubusercontent.com/BHARAT0M/BHARAT0M/master/icons/interviewbit.png?raw=true"></a>&nbsp;&nbsp;
