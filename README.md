@@ -13,10 +13,11 @@
 
 ### About me
 
-- 💻 I am C++ Programmer
-- 🎓 I am currently pursuing MCA at NITK (National Institute Of Technology Karnataka, Surathkal)
+- 💻 I am Software Engineer at BYJU'S
+- 💻 I have completed SWE intern for six months at WhiteHat JR.
+- 🎓 I have completed MCA from NITK (National Institute Of Technology Karnataka, Surathkal)
 - 🎖  I am good in C++, OOPS , Data Structure, MySQL and Problem Solving.
-- 🌱 Learning `Python + Networking`.
+- 🌱 Learning `Python + Networking + AWS`.
 - 🤔 Need some help with [technical interview](https://techinterviewhandbook.org/).
 - 💬 Ask me about anything ☞ [here](https://instagram.com/b_badiya08/).
 
